@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pydatawrangler/bus_number/master)
+
 ## Bus Number: A Workflow for Reproducible Data Science
 
 > **Bus Number** (bŭs nŭmʹbər), *noun*: 
